@@ -1,6 +1,6 @@
 # 🏦 Banking Fraud Detection using Python & Machine Learning
 
-![Project Cover](Images/cover.png)
+![Project Cover](Images/cover.png.png)
 
 An end-to-end Machine Learning project that predicts fraudulent banking transactions using Python and Scikit-learn. The project covers the complete data science workflow, including Exploratory Data Analysis (EDA), Feature Engineering, Data Preprocessing, Machine Learning Model Development, Model Evaluation, and Business Recommendations.
 
