@@ -154,9 +154,6 @@ banking-fraud-detection-machine-learning
 ├── Notebooks
 │   └── Banking_Fraud_Detection.ipynb
 │
-├── Python Scripts
-│   └── fraud_detection.py
-│
 ├── Images
 │   ├── cover.png
 │   ├── fraud_distribution.png
